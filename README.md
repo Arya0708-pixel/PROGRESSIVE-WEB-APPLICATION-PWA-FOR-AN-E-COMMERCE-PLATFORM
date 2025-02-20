@@ -68,3 +68,10 @@ ShopNest combines the power of modern web technologies with the accessibility of
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f82af58e-cac9-4223-8b44-b8ac95aaa485)
+![Image](https://github.com/user-attachments/assets/89ff56db-254a-46cd-a5c7-a64e4740f543)
+![Image](https://github.com/user-attachments/assets/adeea5de-5dc0-469d-b130-a36a5c51a2b4)
+![Image](https://github.com/user-attachments/assets/6d756bdc-b473-43a6-b2b4-8e9585240a92)
+![Image](https://github.com/user-attachments/assets/83543e0f-4ba1-40a9-98d1-c08932a3bd28)
+![Image](https://github.com/user-attachments/assets/d2f42a79-7969-483d-bd6e-76a2f727ddfd)
+
